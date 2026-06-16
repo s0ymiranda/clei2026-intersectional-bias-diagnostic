@@ -35,9 +35,9 @@ The scripts are organized according to the type of Machine Learning task they ad
 
 | File | Scenario | Main Description |
 | :--- | :--- | :--- |
-| `clasificacionbinaria.ipynb` | Binary Classification | System implementation for tasks with **two output classes**. Uses the **Adult Census Income** and **German Credit Data** datasets. |
-| `clasificacionmulticlase.ipynb` | Multiclass Classification | System implementation for tasks with **multiple output classes**. By default, configured for the **COMPAS** dataset. |
-| `prediccion.ipynb` | Prediction / Real-Time Monitoring | Implementation focused on **real-time monitoring** of biases and autonomous mitigation in regression tasks. Uses the **Communities and Crime** dataset. |
+| `ClassificationMultiClass.ipynb` | Binary Classification | System implementation for tasks with **two output classes**. Uses the **Adult Census Income** and **German Credit Data** datasets. |
+| `BinaryClassification.ipynb` | Multiclass Classification | System implementation for tasks with **multiple output classes**. By default, configured for the **COMPAS** dataset. |
+| `Prediction.ipynb` | Prediction / Real-Time Monitoring | Implementation focused on **real-time monitoring** of biases and autonomous mitigation in regression tasks. Uses the **Communities and Crime** dataset. |
 
 ---
 
